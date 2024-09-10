@@ -12,7 +12,7 @@
     font-weight: 500;
     margin: 1em 0;
   }
-  .banner__pesquisa { 
+  .banner__pesquisa {
     background-color: transparent;
     border: 1px solid var(--branco);
     color: var(--branco);
@@ -29,4 +29,4 @@
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;
   }
-          
+               
